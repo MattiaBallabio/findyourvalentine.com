@@ -1,0 +1,47 @@
+html {
+  font-size: 2cap;
+}
+
+body {
+  background-color: #f5d7e3;
+  color: red;
+}
+
+img {
+  -webkit-user-drag: none;
+}
+
+a {
+  -webkit-user-drag: none;
+}
+
+hr {
+  height: 5px;
+  background: yellow;
+}
+
+footer {
+  background-color: grey;
+  color: white
+}
+
+.webtitle {
+  color: blue;
+  text-decoration: underline
+}
+
+.signupandfaq {
+  display: flex;
+}
+
+.buynow {
+  display: block;
+  margin: auto;
+  max-width: 30%;
+}
+
+.imgdecor {
+  display: block;
+  margin: auto;
+  max-width: 70%;
+}
